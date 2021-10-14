@@ -1,0 +1,85 @@
+|--- feature_79 <= 0.50
+|   |--- feature_82 <= 0.50
+|   |   |--- feature_1 <= 25.50
+|   |   |   |--- feature_36 <= 0.50
+|   |   |   |   |--- feature_34 <= 0.50
+|   |   |   |   |   |--- feature_21 <= 0.50
+|   |   |   |   |   |   |--- feature_11 <= 4.50
+|   |   |   |   |   |   |   |--- feature_7 <= 11.04
+|   |   |   |   |   |   |   |   |--- feature_14 <= 13.50
+|   |   |   |   |   |   |   |   |   |--- feature_8 <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: high
+|   |   |   |   |   |   |   |   |   |--- feature_8 >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: medium
+|   |   |   |   |   |   |   |   |--- feature_14 >  13.50
+|   |   |   |   |   |   |   |   |   |--- class: low
+|   |   |   |   |   |   |   |--- feature_7 >  11.04
+|   |   |   |   |   |   |   |   |--- class: low
+|   |   |   |   |   |   |--- feature_11 >  4.50
+|   |   |   |   |   |   |   |--- feature_57 <= 0.50
+|   |   |   |   |   |   |   |   |--- class: low
+|   |   |   |   |   |   |   |--- feature_57 >  0.50
+|   |   |   |   |   |   |   |   |--- class: medium
+|   |   |   |   |   |--- feature_21 >  0.50
+|   |   |   |   |   |   |--- feature_6 <= 5.50
+|   |   |   |   |   |   |   |--- feature_11 <= 0.50
+|   |   |   |   |   |   |   |   |--- class: medium
+|   |   |   |   |   |   |   |--- feature_11 >  0.50
+|   |   |   |   |   |   |   |   |--- class: high
+|   |   |   |   |   |   |--- feature_6 >  5.50
+|   |   |   |   |   |   |   |--- class: low
+|   |   |   |   |--- feature_34 >  0.50
+|   |   |   |   |   |--- feature_3 <= 132.50
+|   |   |   |   |   |   |--- feature_7 <= 12.47
+|   |   |   |   |   |   |   |--- feature_0 <= -0.38
+|   |   |   |   |   |   |   |   |--- class: none
+|   |   |   |   |   |   |   |--- feature_0 >  -0.38
+|   |   |   |   |   |   |   |   |--- feature_7 <= 7.36
+|   |   |   |   |   |   |   |   |   |--- class: low
+|   |   |   |   |   |   |   |   |--- feature_7 >  7.36
+|   |   |   |   |   |   |   |   |   |--- class: none
+|   |   |   |   |   |   |--- feature_7 >  12.47
+|   |   |   |   |   |   |   |--- class: low
+|   |   |   |   |   |--- feature_3 >  132.50
+|   |   |   |   |   |   |--- feature_89 <= 0.50
+|   |   |   |   |   |   |   |--- feature_16 <= 0.50
+|   |   |   |   |   |   |   |   |--- class: none
+|   |   |   |   |   |   |   |--- feature_16 >  0.50
+|   |   |   |   |   |   |   |   |--- class: none
+|   |   |   |   |   |   |--- feature_89 >  0.50
+|   |   |   |   |   |   |   |--- class: medium
+|   |   |   |--- feature_36 >  0.50
+|   |   |   |   |--- feature_7 <= 7.03
+|   |   |   |   |   |--- class: none
+|   |   |   |   |--- feature_7 >  7.03
+|   |   |   |   |   |--- class: none
+|   |   |--- feature_1 >  25.50
+|   |   |   |--- feature_7 <= 8.32
+|   |   |   |   |--- feature_89 <= 0.50
+|   |   |   |   |   |--- feature_14 <= 1.50
+|   |   |   |   |   |   |--- class: low
+|   |   |   |   |   |--- feature_14 >  1.50
+|   |   |   |   |   |   |--- class: high
+|   |   |   |   |--- feature_89 >  0.50
+|   |   |   |   |   |--- feature_0 <= 1.15
+|   |   |   |   |   |   |--- class: low
+|   |   |   |   |   |--- feature_0 >  1.15
+|   |   |   |   |   |   |--- feature_1 <= 34.50
+|   |   |   |   |   |   |   |--- class: low
+|   |   |   |   |   |   |--- feature_1 >  34.50
+|   |   |   |   |   |   |   |--- class: high
+|   |   |   |--- feature_7 >  8.32
+|   |   |   |   |--- class: none
+|   |--- feature_82 >  0.50
+|   |   |--- feature_7 <= 5.99
+|   |   |   |--- feature_6 <= 5.50
+|   |   |   |   |--- class: low
+|   |   |   |--- feature_6 >  5.50
+|   |   |   |   |--- class: none
+|   |   |--- feature_7 >  5.99
+|   |   |   |--- class: none
+|--- feature_79 >  0.50
+|   |--- feature_16 <= 0.50
+|   |   |--- class: none
+|   |--- feature_16 >  0.50
+|   |   |--- class: low

@@ -1,0 +1,190 @@
+|--- feature_48 <= 1.50
+|   |--- feature_21 <= 1.50
+|   |   |--- feature_88 <= 0.50
+|   |   |   |--- feature_7 <= 0.50
+|   |   |   |   |--- feature_9 <= 6.04
+|   |   |   |   |   |--- feature_107 <= 0.50
+|   |   |   |   |   |   |--- feature_48 <= 0.50
+|   |   |   |   |   |   |   |--- feature_2 <= 4.50
+|   |   |   |   |   |   |   |   |--- feature_100 <= 0.50
+|   |   |   |   |   |   |   |   |   |--- feature_16 <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |   |   |--- feature_16 >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_5 <= 98.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- feature_5 >  98.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- feature_100 >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |--- feature_2 >  4.50
+|   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |--- feature_48 >  0.50
+|   |   |   |   |   |   |   |--- feature_9 <= 5.73
+|   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |--- feature_9 >  5.73
+|   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |--- feature_107 >  0.50
+|   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |--- feature_9 >  6.04
+|   |   |   |   |   |--- feature_13 <= 13.50
+|   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |--- feature_13 >  13.50
+|   |   |   |   |   |   |--- feature_13 <= 17.50
+|   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |--- feature_13 >  17.50
+|   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |--- feature_7 >  0.50
+|   |   |   |   |--- feature_58 <= 0.50
+|   |   |   |   |   |--- feature_38 <= 1.50
+|   |   |   |   |   |   |--- feature_12 <= 2.50
+|   |   |   |   |   |   |   |--- feature_10 <= 10.50
+|   |   |   |   |   |   |   |   |--- feature_22 <= 0.50
+|   |   |   |   |   |   |   |   |   |--- feature_5 <= 165.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_13 <= 9.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 41
+|   |   |   |   |   |   |   |   |   |   |--- feature_13 >  9.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |   |   |   |--- feature_5 >  165.50
+|   |   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |   |--- feature_22 >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |--- feature_10 >  10.50
+|   |   |   |   |   |   |   |   |--- feature_5 <= 77.00
+|   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |   |--- feature_5 >  77.00
+|   |   |   |   |   |   |   |   |   |--- feature_101 <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_10 <= 30.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 41
+|   |   |   |   |   |   |   |   |   |   |--- feature_10 >  30.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |   |   |--- feature_101 >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |--- feature_12 >  2.50
+|   |   |   |   |   |   |   |--- feature_113 <= 1.50
+|   |   |   |   |   |   |   |   |--- feature_97 <= 0.50
+|   |   |   |   |   |   |   |   |   |--- feature_11 <= 9.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_4 <= 7.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- feature_4 >  7.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 40
+|   |   |   |   |   |   |   |   |   |--- feature_11 >  9.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_5 <= 105.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- feature_5 >  105.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |--- feature_97 >  0.50
+|   |   |   |   |   |   |   |   |   |--- feature_9 <= 6.09
+|   |   |   |   |   |   |   |   |   |   |--- feature_114 <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |   |   |   |--- feature_114 >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |   |   |--- feature_9 >  6.09
+|   |   |   |   |   |   |   |   |   |   |--- feature_10 <= 17.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- feature_10 >  17.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |--- feature_113 >  1.50
+|   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |--- feature_38 >  1.50
+|   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |--- feature_58 >  0.50
+|   |   |   |   |   |--- feature_50 <= 0.50
+|   |   |   |   |   |   |--- feature_24 <= 2.50
+|   |   |   |   |   |   |   |--- feature_13 <= 15.50
+|   |   |   |   |   |   |   |   |--- feature_13 <= 2.50
+|   |   |   |   |   |   |   |   |   |--- feature_8 <= 6.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_96 <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- feature_96 >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |   |   |--- feature_8 >  6.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_9 <= 7.29
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- feature_9 >  7.29
+|   |   |   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |   |--- feature_13 >  2.50
+|   |   |   |   |   |   |   |   |   |--- feature_19 <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_5 <= 100.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- feature_5 >  100.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |--- feature_19 >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |--- feature_13 >  15.50
+|   |   |   |   |   |   |   |   |--- feature_54 <= 0.50
+|   |   |   |   |   |   |   |   |   |--- feature_16 <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |   |   |--- feature_16 >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_14 <= -0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |   |   |   |--- feature_14 >  -0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |--- feature_54 >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |--- feature_24 >  2.50
+|   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |--- feature_50 >  0.50
+|   |   |   |   |   |   |--- feature_13 <= 1.50
+|   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |--- feature_13 >  1.50
+|   |   |   |   |   |   |   |--- feature_14 <= -0.03
+|   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |--- feature_14 >  -0.03
+|   |   |   |   |   |   |   |   |--- feature_16 <= 4.50
+|   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |   |--- feature_16 >  4.50
+|   |   |   |   |   |   |   |   |   |--- feature_58 <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- feature_3 <= 10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |   |   |   |--- feature_3 >  10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- feature_58 >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |--- feature_88 >  0.50
+|   |   |   |--- feature_9 <= 18.05
+|   |   |   |   |--- feature_72 <= 0.50
+|   |   |   |   |   |--- feature_8 <= 8.50
+|   |   |   |   |   |   |--- feature_16 <= 11.50
+|   |   |   |   |   |   |   |--- feature_5 <= 235.00
+|   |   |   |   |   |   |   |   |--- feature_4 <= 15.50
+|   |   |   |   |   |   |   |   |   |--- feature_11 <= 10.00
+|   |   |   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |   |   |   |--- feature_11 >  10.00
+|   |   |   |   |   |   |   |   |   |   |--- feature_9 <= 14.96
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- feature_9 >  14.96
+|   |   |   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |   |--- feature_4 >  15.50
+|   |   |   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |   |   |--- feature_5 >  235.00
+|   |   |   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |   |--- feature_16 >  11.50
+|   |   |   |   |   |   |   |--- class: increase
+|   |   |   |   |   |--- feature_8 >  8.50
+|   |   |   |   |   |   |--- class: increase
+|   |   |   |   |--- feature_72 >  0.50
+|   |   |   |   |   |--- feature_16 <= 10.50
+|   |   |   |   |   |   |--- class: decrease
+|   |   |   |   |   |--- feature_16 >  10.50
+|   |   |   |   |   |   |--- class: increase
+|   |   |   |--- feature_9 >  18.05
+|   |   |   |   |--- class: decrease
+|   |--- feature_21 >  1.50
+|   |   |--- feature_16 <= 5.50
+|   |   |   |--- feature_50 <= 1.50
+|   |   |   |   |--- feature_9 <= 13.05
+|   |   |   |   |   |--- class: increase
+|   |   |   |   |--- feature_9 >  13.05
+|   |   |   |   |   |--- class: decrease
+|   |   |   |--- feature_50 >  1.50
+|   |   |   |   |--- class: decrease
+|   |   |--- feature_16 >  5.50
+|   |   |   |--- class: decrease
+|--- feature_48 >  1.50
+|   |--- feature_115 <= 0.50
+|   |   |--- feature_116 <= 0.50
+|   |   |   |--- class: increase
+|   |   |--- feature_116 >  0.50
+|   |   |   |--- class: decrease
+|   |--- feature_115 >  0.50
+|   |   |--- class: decrease
